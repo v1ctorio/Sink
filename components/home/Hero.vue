@@ -21,16 +21,16 @@ const { title, description } = useAppConfig()
       </p>
       <div class="flex flex-col gap-3 mt-6 sm:flex-row">
         <HomeLink
-          href="/dashboard"
+          href="https://v1c.rocks"
           target="_blank"
-          title="Dashboard"
+          title="Vicweb"
           class="flex items-center justify-center gap-1"
           rel="noopener"
         >
           <AreaChart
             class="w-5 h-5"
           />
-          Dashboard
+          Vic web
         </HomeLink>
         <HomeLink
           size="lg"
@@ -44,7 +44,7 @@ const { title, description } = useAppConfig()
           <GitHubIcon
             class="w-5 h-5"
           />
-          GitHub Repo
+          Sink Source
         </HomeLink>
       </div>
     </div>

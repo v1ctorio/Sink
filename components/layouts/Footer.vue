@@ -17,18 +17,18 @@ onMounted(() => {
       >Sink</a>
       <a
         class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0"
-        href="https://html.zone"
+        href="https://github.com/ccbikai/Sink"
         target="_blank"
-        title="HTML.ZONE"
+        title="Sink"
       >
-        &copy; {{ new Date().getFullYear() }} Products of HTML.ZONE
+        Hellooo chat. Made using Sink. Sink is awesome.
       </a>
       <span
         class="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start"
       >
         <a
           ref="email"
-          href="mailto:sink.cool$miantiao.me"
+          href="mailto:vic$nosesisaid.com"
           title="Email"
           class="text-gray-400 hover:text-gray-500"
         >
@@ -37,31 +37,10 @@ onMounted(() => {
             class="w-6 h-6"
           />
         </a>
-        <a
-          href="https://t.me/htmlzone"
-          target="_blank"
-          title="Telegram"
-          class="text-gray-400 hover:text-gray-500"
-        >
-          <span class="sr-only">Telegram</span>
-          <TelegramIcon
-            class="w-6 h-6"
-          />
-        </a>
-        <a
-          href="https://mt.ci"
-          target="_blank"
-          title="Blog"
-          class="text-gray-400 hover:text-gray-500"
-        >
-          <span class="sr-only">Blog</span>
-          <BloggerIcon
-            class="w-6 h-6"
-          />
-        </a>
+
 
         <a
-          href="https://x.com/0xKaiBi"
+          href="https://x.com/vicjajsalu2"
           target="_blank"
           title="Twitter"
           class="text-gray-400 hover:text-gray-500"
@@ -71,21 +50,8 @@ onMounted(() => {
             class="w-6 h-6"
           />
         </a>
-
         <a
-          href="https://miantiao.me/@chi"
-          target="_blank"
-          title="Mastodon"
-          class="text-gray-400 hover:text-gray-500"
-        >
-          <span class="sr-only">Mastodon</span>
-          <MastodonIcon
-            class="w-6 h-6"
-          />
-        </a>
-
-        <a
-          href="https://github.com/ccbikai"
+          href="https://github.com/v1ctorio"
           target="_blank"
           title="GitHub"
           class="text-gray-400 hover:text-gray-500"
