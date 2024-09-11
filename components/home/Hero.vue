@@ -1,5 +1,5 @@
 <script setup>
-import { AreaChart } from 'lucide-vue-next'
+import { TentTree } from 'lucide-vue-next'
 import { GitHubIcon } from 'vue3-simple-icons'
 import heroImg from '@/assets/images/hero.svg?raw'
 
@@ -27,7 +27,7 @@ const { title, description } = useAppConfig()
           class="flex items-center justify-center gap-1"
           rel="noopener"
         >
-          <AreaChart
+          <TentTree
             class="w-5 h-5"
           />
           Vic web

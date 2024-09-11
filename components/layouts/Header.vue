@@ -73,7 +73,7 @@ const showMenu = ref(false)
                 <GitHubIcon
                   class="w-5 h-5 mr-1"
                 />
-                GitHub</a>
+                Sink source</a>
               <span class="ml-1">
                 <SwitchTheme />
               </span>
